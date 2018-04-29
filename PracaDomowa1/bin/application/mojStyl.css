@@ -1,0 +1,9 @@
+.root {
+	-fx-background-color:white;
+	}
+	.my-field{
+	-fx-background-color:yellow;	
+	-fx-text-fill:blue;
+	-fx-pref-width:130px;
+	
+	}
